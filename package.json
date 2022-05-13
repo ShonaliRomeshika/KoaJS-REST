@@ -1,0 +1,24 @@
+{
+  "name": "koajs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShonaliRomeshika/KoaJS-REST.git"
+  },
+  "author": "Shonali Romeshika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShonaliRomeshika/KoaJS-REST/issues"
+  },
+  "homepage": "https://github.com/ShonaliRomeshika/KoaJS-REST#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.16"
+  }
+}
